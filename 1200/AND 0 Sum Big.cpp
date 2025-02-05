@@ -3,7 +3,7 @@ using namespace std;
 using ll=long long;
 #define Ceil(a,b) ((a+b-1)/b)
 void solve(ll t){
-    ll n,k;djwhdk
+    ll n,k;
     cin>>n>>k;
     ll ans=1;
     for(int i=0;i<k;i++){
